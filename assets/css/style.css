@@ -1,0 +1,60 @@
+.jumbotron {
+  box-sizing: border-box;
+  height: 500px;
+  background-color: #022b6d;
+}
+
+body {
+	color: white;
+	background-color: #022b6d;;
+}
+
+.main-button-container {
+  margin-top: 175px;
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p.text-center.timer-p {
+    font-size: 24px;
+    color: red;
+}
+
+p.text-center {
+    font-size: 40px;
+    color: #f4e842;
+}
+.timer-p {
+  margin-top: 40px;
+}
+
+.answer:hover {
+  background: #9bb8e8;
+}
+
+.answer {
+  padding-top: 7px;
+  height: 35px;
+  color: black;
+  padding-left: 16px;
+  background-color: #FFF;
+  border-radius: 4px;
+}
+
+.img-wrong {
+  margin-top: 30px;
+}
+
+.first-answer {
+  margin-top: 30px;
+}
+
+.reset-button {
+  margin-top: 30px;
+}
+
+.summary-correct {
+  margin-top: 30px;
+}
+
